@@ -2,7 +2,15 @@
   <img src="https://api.boot.dev/v1/users/public/ac99180e-f33c-4d74-aaee-fecd00206929/thumbnail" >
 </p>
 
-#
+##
+
+Motivation
+
+Quick Start
+
+Usage
+
+Contributing
 
 <!--
 **Lynn-Xy/Lynn-Xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
